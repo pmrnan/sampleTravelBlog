@@ -123,7 +123,7 @@ article {
 
 #navi {
   background-color: #333;
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 
 #navi ul {
